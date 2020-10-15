@@ -1,0 +1,13 @@
+C:\Users\dimadev\.github\100_Days_of_Coding\Day 1 - EASY\bin\Debug\netcoreapp3.1\Day 1 - EASY.exe
+C:\Users\dimadev\.github\100_Days_of_Coding\Day 1 - EASY\bin\Debug\netcoreapp3.1\Day 1 - EASY.deps.json
+C:\Users\dimadev\.github\100_Days_of_Coding\Day 1 - EASY\bin\Debug\netcoreapp3.1\Day 1 - EASY.runtimeconfig.json
+C:\Users\dimadev\.github\100_Days_of_Coding\Day 1 - EASY\bin\Debug\netcoreapp3.1\Day 1 - EASY.runtimeconfig.dev.json
+C:\Users\dimadev\.github\100_Days_of_Coding\Day 1 - EASY\bin\Debug\netcoreapp3.1\Day 1 - EASY.dll
+C:\Users\dimadev\.github\100_Days_of_Coding\Day 1 - EASY\bin\Debug\netcoreapp3.1\Day 1 - EASY.pdb
+C:\Users\dimadev\.github\100_Days_of_Coding\Day 1 - EASY\obj\Debug\netcoreapp3.1\Day 1 - EASY.csprojAssemblyReference.cache
+C:\Users\dimadev\.github\100_Days_of_Coding\Day 1 - EASY\obj\Debug\netcoreapp3.1\Day 1 - EASY.AssemblyInfoInputs.cache
+C:\Users\dimadev\.github\100_Days_of_Coding\Day 1 - EASY\obj\Debug\netcoreapp3.1\Day 1 - EASY.AssemblyInfo.cs
+C:\Users\dimadev\.github\100_Days_of_Coding\Day 1 - EASY\obj\Debug\netcoreapp3.1\Day 1 - EASY.csproj.CoreCompileInputs.cache
+C:\Users\dimadev\.github\100_Days_of_Coding\Day 1 - EASY\obj\Debug\netcoreapp3.1\Day 1 - EASY.dll
+C:\Users\dimadev\.github\100_Days_of_Coding\Day 1 - EASY\obj\Debug\netcoreapp3.1\Day 1 - EASY.pdb
+C:\Users\dimadev\.github\100_Days_of_Coding\Day 1 - EASY\obj\Debug\netcoreapp3.1\Day 1 - EASY.genruntimeconfig.cache
