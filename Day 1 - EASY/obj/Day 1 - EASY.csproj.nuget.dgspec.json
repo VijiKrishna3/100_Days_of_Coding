@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dimadev\\.github\\100_Days_of_Coding\\Day 1 - EASY\\Day 1 - EASY.csproj": {}
+    "C:\\Users\\dimadev\\.github\\100_Days_of_Coding\\Day 1 - Easy\\Day 1 - EASY.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dimadev\\.github\\100_Days_of_Coding\\Day 1 - EASY\\Day 1 - EASY.csproj": {
+    "C:\\Users\\dimadev\\.github\\100_Days_of_Coding\\Day 1 - Easy\\Day 1 - EASY.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dimadev\\.github\\100_Days_of_Coding\\Day 1 - EASY\\Day 1 - EASY.csproj",
+        "projectUniqueName": "C:\\Users\\dimadev\\.github\\100_Days_of_Coding\\Day 1 - Easy\\Day 1 - EASY.csproj",
         "projectName": "Day 1 - EASY",
-        "projectPath": "C:\\Users\\dimadev\\.github\\100_Days_of_Coding\\Day 1 - EASY\\Day 1 - EASY.csproj",
+        "projectPath": "C:\\Users\\dimadev\\.github\\100_Days_of_Coding\\Day 1 - Easy\\Day 1 - EASY.csproj",
         "packagesPath": "C:\\Users\\dimadev\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dimadev\\.github\\100_Days_of_Coding\\Day 1 - EASY\\obj\\",
+        "outputPath": "C:\\Users\\dimadev\\.github\\100_Days_of_Coding\\Day 1 - Easy\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
