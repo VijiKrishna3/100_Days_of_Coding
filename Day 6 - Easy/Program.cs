@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Security.Cryptography.X509Certificates;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -10,18 +11,19 @@ namespace _100daysCoding
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Enter the number of intervals you want to enter: ");
+            Console.Write("Enter the number of intervals you want to enter: ");
             int numberOfIntervals = Convert.ToInt32(Console.ReadLine());
 
+            // Console Inputting the arrays
             Interval[] intervals = new Interval[numberOfIntervals];
             for(int i = 0; i < numberOfIntervals; ++i)
             {
                 intervals[i] = new Interval();
 
-                Console.WriteLine("Input the start point of the {0}. interval: ", i + 1);
+                Console.Write("\nInput the start point of the {0}. interval: ", i + 1);
                 intervals[i].start_point = Convert.ToInt32(Console.ReadLine());
 
-                Console.WriteLine("Input the end point of the {0}. interval: ", i + 1);
+                Console.Write("Input the end point of the {0}. interval: ", i + 1);
                 intervals[i].end_point = Convert.ToInt32(Console.ReadLine());
 
                 if (intervals[i].start_point > intervals[i].end_point)
@@ -30,28 +32,29 @@ namespace _100daysCoding
                 }
             }
 
-            bool toExit;
-
-
-        }
-
-        static Interval Overlapping(Interval[] arr)
-        {
-            for (int j = 0; j < arr.Length; ++j)
+            // Sorting the intervals based on the starting points
+            for (int i = 0; i < numberOfIntervals -1; ++i)
             {
-                for (int k = j + 1; k < arr.Length; ++k)
+                if (intervals[i].start_point > intervals[i + 1].start_point)
                 {
-                    // Second array completely envelops the first array
-                    if (arr[j].start_point > arr[k].start_point && arr[j].end_point < arr[k].end_point)
-                    {
-                        return new Interval(arr[k]);
-                    }
-
-
+                    (intervals[i].start_point, intervals[i].end_point) = (intervals[i + 1].start_point, intervals[i + 1].end_point);
                 }
             }
 
-            return new Interval();
+            // Deciding how much you need to remove
+            int removesToWork = 0;
+            int outer_i = 0;
+
+            for (int i = 1; i < numberOfIntervals; ++i)
+            {
+                if (intervals[outer_i].end_point > intervals[i].start_point)
+                    ++removesToWork;
+                else
+                    outer_i = i;
+            }
+
+            Console.WriteLine($"\nRemoves needed: {removesToWork}");
+            Console.ReadLine();
         }
     }
 
