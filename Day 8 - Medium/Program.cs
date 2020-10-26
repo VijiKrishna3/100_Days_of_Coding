@@ -10,9 +10,9 @@ namespace _100daysCoding
     {
         static void Main(string[] args)
         {
-            // The program is going to work on ASCII values instead of using hardcoded letter arrays
+            // Initializing the some thoughtup 3point example
 
-            // Initializing the text example
+            // Intialize the graph object with the number of points as a parameter, and add all its connections
             Graph graph = new Graph(3);
             graph.AddPoint('A', 'B', false);
             graph.AddPoint('B', 'A', false);
@@ -23,7 +23,7 @@ namespace _100daysCoding
 
             graph.ReverseGraph(3);
 
-            Console.Write("\n\nDisplaying the finalized reversed graph: ");
+            Console.Write("\n\nDisplaying the reversed graph:");
             graph.DisplayGraph(3, true);
 
             Console.ReadLine();
@@ -69,7 +69,7 @@ namespace _100daysCoding
 
                     for (int j = 0; j < reverse[i].Count; ++j)
                     {
-                            Console.Write($"{reverse[i][j]}, ");
+                        Console.Write($"{reverse[i][j]}, ");
                     }
                 }
             }
@@ -81,7 +81,7 @@ namespace _100daysCoding
 
                     for (int j = 0; j < graph[i].Count; ++j)
                     {
-                            Console.Write($"{graph[i][j]}, ");
+                        Console.Write($"{graph[i][j]}, ");
                     }
                 }
             }
@@ -91,9 +91,8 @@ namespace _100daysCoding
         {
             for (int i = 0; i < numberOfPoints; ++i)
             {
-                for (int j = 0; j < graph[i].Count; ++i)
+                for (int j = 0; j < graph[i].Count; ++j)
                 {
-                    Console.WriteLine(graph[i][j]);
                     AddPoint(graph[i][j], (char)(i + 65), true);
                 }
             }
