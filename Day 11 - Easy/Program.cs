@@ -32,6 +32,10 @@ namespace _100daysCoding
                         output += " -> ";
                     }
                 }
+                else if (i % 2 == 0 && i == nElements - 1)
+                {
+                    output += array[i];
+                }
             }
 
             Console.WriteLine("\n" + output);
