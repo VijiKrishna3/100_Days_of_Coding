@@ -8,8 +8,6 @@ namespace _100daysCoding
 {
     class Program_Day15
     {
-        
-
         static void Main(string[] args)
         {
             Console.Write("Input the number of strings: ");
