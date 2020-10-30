@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Day_17___Medium
+namespace _100daysCoding
 {
-    class Program
+    class Program_Day17
     {
         static void Main(string[] args)
         {
