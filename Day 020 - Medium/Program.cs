@@ -98,7 +98,7 @@ namespace _100daysCoding
 
             }
 
-            // Assume the first array is the biggest because of the descending sort
+            // First value is the biggest because ascending sort in query
             int maxSubsetVal = allSubsets[0].Count();
             int x = 0;
 
@@ -115,9 +115,6 @@ namespace _100daysCoding
                     ++x;
                 }
             }
-
-            var _nFinal = from entry in _nFreq where entry.Value == _nFreq.First().Value select entry;
-
         }
     }
 }
