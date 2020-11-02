@@ -31,12 +31,32 @@ namespace _100daysCoding
                 }
             }
 
+            // Minimizing array to only the highest countables
             var freq_s = from entry in subsets orderby entry.Value descending select entry;
-
             var newlist = from entry in freq_s where entry.Value == freq_s.First().Value select entry;
 
+            // Now what can happen if we have i.e. 3 6 9 5 10 20 -> final input is 3 5 10 20 although neither can be devided by 3.
+            // To counteract that, we will perform another modulo check on the new-found array
+            var _n = newlist.ToList();
+            var _nClean = _n.ToDictionary(o => o.Key, val => 0);
+
+            for (int i = 0; i < _n.Count; ++i)
+            {
+                for (int j = 0; j < _n.Count; ++j)
+                {
+                    if (i != j && (_n[j].Key % _n[i].Key == 0 || _n[i].Key % _n[j].Key == 0))
+                    {
+                        ++_nClean[_n[i].Key];
+                        ++_nClean[_n[j].Key];
+                    }
+                }
+            }
+
+            var _nFreq = from entry in _nClean orderby entry.Value descending select entry;
+            var _nFinal = from entry in _nFreq where entry.Value == _nFreq.First().Value select entry;
+
             Console.Write("The largest subset is: ");
-            foreach (var val in newlist)
+            foreach (var val in _nFinal)
                 Console.Write($"{ val.Key} ");
 
             Console.ReadLine();
