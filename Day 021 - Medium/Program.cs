@@ -1,4 +1,5 @@
-﻿using System;
+﻿using MoreLinq;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -12,8 +13,7 @@ namespace _100daysCoding
         {
             Console.Write("Input the 8-bit number (i.e. 01010101): ");
             string s = Console.ReadLine();
-            s = s.Replace('0', '"').Replace('1', '0').Replace('"', '1');
-            Console.WriteLine($"Output: {s}");
+            Console.WriteLine($"Output: {string.Join("", s.Batch(2).SelectMany(x => x.Reverse()))}");
             Console.ReadLine();
         }
     }
