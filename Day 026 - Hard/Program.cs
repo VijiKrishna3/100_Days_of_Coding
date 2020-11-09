@@ -50,9 +50,6 @@ namespace _100daysCoding
             bool broken = false;
             bool balanced = false;
 
-            // Determines which of brackets there are more
-            int bracketMatcher = Math.Max(ws.Count(f => f == '('), ws.Count(f => f == ')'));
-
             Values[] matched = new Values[ws.Length];
             for (int i = 0; i < matched.Length; ++i) matched[i] = Values.standby;
 
@@ -78,11 +75,18 @@ namespace _100daysCoding
                 {
                     if (matched.Count(x => x == Values.engaged_open) > matched.Count(x => x == Values.matched_close))
                     {
-                        matched[i] = Values.matched_close;
+                        if(!(ws.Count(f => f == ')') == ws.Count(f => f == '(')))
+                        {
+                            matched[i] = Values.matched_close;
+                        }
+                    }
+                    else if (matched.Count(x => x == Values.engaged_open) < matched.Count(x => x == Values.matched_close))
+                    {
+                        matched[i] = Values.engaged_open;
                     }
                     else
                     {
-                        matched[i] = Values.engaged_open;
+                        matched[i] = Values.standby;
                     }
                 }
             }
