@@ -13,7 +13,6 @@ namespace _100daysCoding
             Console.WriteLine("Input a string consisting of (, ), and/or * :");
             string ws = Console.ReadLine();
 
-            Solution1(ws);
             Solution2(ws);
 
             Console.ReadLine();
@@ -63,7 +62,7 @@ namespace _100daysCoding
                 {
                     matched[i] = Values.engaged_open;
                 }
-                
+
                 if (ws[i] == ')')
                 {
                     matched[i] = Values.matched_close;
@@ -103,6 +102,7 @@ namespace _100daysCoding
             Console.WriteLine($"\n{(balanced ? "Balanced." : "Unbalanced.")}");
         }
 
-        public enum Values { engaged_open, matched_close, standby};
+        public enum Values { engaged_open, matched_close, standby };
+
     }
 }
