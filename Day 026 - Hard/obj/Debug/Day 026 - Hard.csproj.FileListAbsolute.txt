@@ -5,3 +5,10 @@ C:\Users\dimadev\.github\100_Days_of_Coding\Day 026 - Hard\obj\Debug\Day 026 - H
 C:\Users\dimadev\.github\100_Days_of_Coding\Day 026 - Hard\obj\Debug\Day 026 - Hard.csproj.CoreCompileInputs.cache
 C:\Users\dimadev\.github\100_Days_of_Coding\Day 026 - Hard\obj\Debug\Day 026 - Hard.exe
 C:\Users\dimadev\.github\100_Days_of_Coding\Day 026 - Hard\obj\Debug\Day 026 - Hard.pdb
+C:\Users\NRG\Documents\GitHub\100_Days_of_Coding\Day 026 - Hard\bin\Debug\Day 026 - Hard.exe.config
+C:\Users\NRG\Documents\GitHub\100_Days_of_Coding\Day 026 - Hard\bin\Debug\Day 026 - Hard.exe
+C:\Users\NRG\Documents\GitHub\100_Days_of_Coding\Day 026 - Hard\bin\Debug\Day 026 - Hard.pdb
+C:\Users\NRG\Documents\GitHub\100_Days_of_Coding\Day 026 - Hard\obj\Debug\Day 026 - Hard.csprojAssemblyReference.cache
+C:\Users\NRG\Documents\GitHub\100_Days_of_Coding\Day 026 - Hard\obj\Debug\Day 026 - Hard.csproj.CoreCompileInputs.cache
+C:\Users\NRG\Documents\GitHub\100_Days_of_Coding\Day 026 - Hard\obj\Debug\Day 026 - Hard.exe
+C:\Users\NRG\Documents\GitHub\100_Days_of_Coding\Day 026 - Hard\obj\Debug\Day 026 - Hard.pdb
