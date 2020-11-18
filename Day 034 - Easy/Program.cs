@@ -21,7 +21,7 @@ namespace _100daysCoding
             int xReplace = reList.Max() + 1;
 
 
-            for (int i = 0; i < k; ++i)
+            for (int i = 0; i < reList.Count - k; ++i)
             {
                 swap.Add(reList[i]);
                 reList[i] = xReplace;
@@ -30,7 +30,7 @@ namespace _100daysCoding
             reList.AddRange(swap);
 
             Console.WriteLine("\nMoved list: ");
-            for (int i = k; i < reList.Count; ++i)
+            for (int i = lList.Length - k; i < reList.Count; ++i)
             {
                 Console.Write($"{reList[i]}");
                 if (i != reList.Count - 1)
