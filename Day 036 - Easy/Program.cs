@@ -39,19 +39,20 @@ namespace Day_036___Easy
             var probs = (from entry in p select entry.probability).ToList();
 
             var result = starts.GroupBy(f => f).ToDictionary(f => f.Key, v => 0);
+
             var ss = (from entry in result select entry.Key).ToList();
 
             Random rnd = new Random();
            
-           
             for (int i = 0; i < numSteps; ++i)
             {
-                double ddouble = rnd.NextDouble();
                 var ds = (from entry in p where entry.startPoint == start select entry.endPoint).ToList();
                 var d = (from entry in p where entry.startPoint == start select entry.probability).ToList();
+
+                double ddouble = rnd.NextDouble();
                 double last = 0;
 
-                for (int t = d.Count - 1; t >= 0; --t)
+                for (int t = 0; t < d.Count; ++t)
                 {
                     if (ddouble > last && ddouble < d[t])
                     {
