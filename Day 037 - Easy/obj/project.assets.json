@@ -1,0 +1,169 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "Loyc.Collections/28.3.0": {
+        "type": "package",
+        "dependencies": {
+          "Loyc.Essentials": "28.3.0",
+          "Loyc.Interfaces": "28.3.0"
+        },
+        "compile": {
+          "lib/netstandard2.0/Loyc.Collections.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Loyc.Collections.dll": {}
+        }
+      },
+      "Loyc.Essentials/28.3.0": {
+        "type": "package",
+        "dependencies": {
+          "Loyc.Interfaces": "28.3.0"
+        },
+        "compile": {
+          "lib/netstandard2.0/Loyc.Essentials.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Loyc.Essentials.dll": {}
+        }
+      },
+      "Loyc.Interfaces/28.3.0": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Loyc.Interfaces.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Loyc.Interfaces.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Loyc.Collections/28.3.0": {
+      "sha512": "VfLMnhz8ZTxI2mHGMqDo4JuEuSP3t4MT1t6kXx3y4RfqNXw0cqMRW6rxNxDnhixyETx63jV6GKl71a0j8qhaRQ==",
+      "type": "package",
+      "path": "loyc.collections/28.3.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Readme.md",
+        "lib/net45/Loyc.Collections.XML",
+        "lib/net45/Loyc.Collections.dll",
+        "lib/netstandard2.0/Loyc.Collections.deps.json",
+        "lib/netstandard2.0/Loyc.Collections.dll",
+        "lib/netstandard2.0/Loyc.Collections.xml",
+        "loyc.collections.28.3.0.nupkg.sha512",
+        "loyc.collections.nuspec"
+      ]
+    },
+    "Loyc.Essentials/28.3.0": {
+      "sha512": "X3yOGqoCcIVpZLVloeHWM0dtslz7PGixYAdXldfq3IN02iJk2Z6yVmbhkv9y+opA3WKwioS/sOqinFmV/zH4tw==",
+      "type": "package",
+      "path": "loyc.essentials/28.3.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Readme.md",
+        "lib/net45/Loyc.Essentials.dll",
+        "lib/net45/Loyc.Essentials.dll.config",
+        "lib/net45/Loyc.Essentials.xml",
+        "lib/netstandard2.0/Loyc.Essentials.deps.json",
+        "lib/netstandard2.0/Loyc.Essentials.dll",
+        "lib/netstandard2.0/Loyc.Essentials.dll.config",
+        "lib/netstandard2.0/Loyc.Essentials.xml",
+        "loyc.essentials.28.3.0.nupkg.sha512",
+        "loyc.essentials.nuspec"
+      ]
+    },
+    "Loyc.Interfaces/28.3.0": {
+      "sha512": "WdieR26TkSyzt/LOzmQ15S9temuJqXjR+twuxb4JGiEzGvbWmAzCv1boBSB57DklrwG5VIdNe/84ljDNHxE2rg==",
+      "type": "package",
+      "path": "loyc.interfaces/28.3.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Readme.md",
+        "lib/net45/Loyc.Interfaces.dll",
+        "lib/net45/Loyc.Interfaces.xml",
+        "lib/netstandard2.0/Loyc.Interfaces.deps.json",
+        "lib/netstandard2.0/Loyc.Interfaces.dll",
+        "lib/netstandard2.0/Loyc.Interfaces.xml",
+        "loyc.interfaces.28.3.0.nupkg.sha512",
+        "loyc.interfaces.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "Loyc.Collections >= 28.3.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\dimadev\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\dimadev\\.github\\100_Days_of_Coding\\Day 037 - Easy\\Day 037 - Easy.csproj",
+      "projectName": "Day 037 - Easy",
+      "projectPath": "C:\\Users\\dimadev\\.github\\100_Days_of_Coding\\Day 037 - Easy\\Day 037 - Easy.csproj",
+      "packagesPath": "C:\\Users\\dimadev\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\dimadev\\.github\\100_Days_of_Coding\\Day 037 - Easy\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Microsoft\\Xamarin\\NuGet\\"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\dimadev\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "dependencies": {
+          "Loyc.Collections": {
+            "target": "Package",
+            "version": "[28.3.0, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

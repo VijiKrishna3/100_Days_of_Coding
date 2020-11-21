@@ -1,0 +1,20 @@
+C:\Users\dimadev\.github\100_Days_of_Coding\Day 037 - Easy\bin\Debug\net5.0\Day 037 - Easy.exe
+C:\Users\dimadev\.github\100_Days_of_Coding\Day 037 - Easy\bin\Debug\net5.0\Day 037 - Easy.deps.json
+C:\Users\dimadev\.github\100_Days_of_Coding\Day 037 - Easy\bin\Debug\net5.0\Day 037 - Easy.runtimeconfig.json
+C:\Users\dimadev\.github\100_Days_of_Coding\Day 037 - Easy\bin\Debug\net5.0\Day 037 - Easy.runtimeconfig.dev.json
+C:\Users\dimadev\.github\100_Days_of_Coding\Day 037 - Easy\bin\Debug\net5.0\Day 037 - Easy.dll
+C:\Users\dimadev\.github\100_Days_of_Coding\Day 037 - Easy\bin\Debug\net5.0\ref\Day 037 - Easy.dll
+C:\Users\dimadev\.github\100_Days_of_Coding\Day 037 - Easy\bin\Debug\net5.0\Day 037 - Easy.pdb
+C:\Users\dimadev\.github\100_Days_of_Coding\Day 037 - Easy\bin\Debug\net5.0\Loyc.Collections.dll
+C:\Users\dimadev\.github\100_Days_of_Coding\Day 037 - Easy\bin\Debug\net5.0\Loyc.Essentials.dll
+C:\Users\dimadev\.github\100_Days_of_Coding\Day 037 - Easy\bin\Debug\net5.0\Loyc.Interfaces.dll
+C:\Users\dimadev\.github\100_Days_of_Coding\Day 037 - Easy\obj\Debug\net5.0\Day 037 - Easy.csprojAssemblyReference.cache
+C:\Users\dimadev\.github\100_Days_of_Coding\Day 037 - Easy\obj\Debug\net5.0\Day 037 - Easy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dimadev\.github\100_Days_of_Coding\Day 037 - Easy\obj\Debug\net5.0\Day 037 - Easy.AssemblyInfoInputs.cache
+C:\Users\dimadev\.github\100_Days_of_Coding\Day 037 - Easy\obj\Debug\net5.0\Day 037 - Easy.AssemblyInfo.cs
+C:\Users\dimadev\.github\100_Days_of_Coding\Day 037 - Easy\obj\Debug\net5.0\Day 037 - Easy.csproj.CoreCompileInputs.cache
+C:\Users\dimadev\.github\100_Days_of_Coding\Day 037 - Easy\obj\Debug\net5.0\Day 037 - Easy.csproj.CopyComplete
+C:\Users\dimadev\.github\100_Days_of_Coding\Day 037 - Easy\obj\Debug\net5.0\Day 037 - Easy.dll
+C:\Users\dimadev\.github\100_Days_of_Coding\Day 037 - Easy\obj\Debug\net5.0\ref\Day 037 - Easy.dll
+C:\Users\dimadev\.github\100_Days_of_Coding\Day 037 - Easy\obj\Debug\net5.0\Day 037 - Easy.pdb
+C:\Users\dimadev\.github\100_Days_of_Coding\Day 037 - Easy\obj\Debug\net5.0\Day 037 - Easy.genruntimeconfig.cache
