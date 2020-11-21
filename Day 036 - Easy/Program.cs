@@ -23,11 +23,11 @@ namespace Day_036___Easy
             Console.Write("Insert starting state: ");
             char startingState = Convert.ToChar(Console.ReadLine());
 
-            Console.Write("\nInsert number of steps: ");
+            Console.Write("Insert number of steps: ");
             int num_steps = Convert.ToInt32(Console.ReadLine());
 
             var r = MarkovChain(startingState, transitions, num_steps);
-            Console.WriteLine("This instance of Markov chain produced: ");
+            Console.WriteLine("\nThis instance of Markov chain produced: ");
 
             foreach (var k in r)
                 Console.WriteLine($"'{k.Key}': {k.Value},");
@@ -35,32 +35,25 @@ namespace Day_036___Easy
 
         public static Dictionary<char, int> MarkovChain(char start, Probabilities[] p, int numSteps)
         {
-            var starts = (from entry in p select entry.startPoint).ToList();
-            var probs = (from entry in p select entry.probability).ToList();
-
-            var result = starts.GroupBy(f => f).ToDictionary(f => f.Key, v => 0);
-
-            var ss = (from entry in result select entry.Key).ToList();
-
+            var result = (from entry in p select entry.startPoint).ToList().GroupBy(f => f).ToDictionary(f => f.Key, v => 0);
             Random rnd = new Random();
            
             for (int i = 0; i < numSteps; ++i)
             {
-                var ds = (from entry in p where entry.startPoint == start select entry.endPoint).ToList();
-                var d = (from entry in p where entry.startPoint == start select entry.probability).ToList();
+                var d = (from entry in p where entry.startPoint == start select entry).ToList();
 
                 double ddouble = rnd.NextDouble();
                 double last = 0;
 
-                for (int t = 0; t < d.Count; ++t)
+                foreach (var t in d)
                 {
-                    if (ddouble > last && ddouble < d[t])
+                    if (ddouble > last && ddouble < t.probability)
                     {
-                        result[ds[t]]++;
-                        start = ds[t];
+                        ++result[t.endPoint];
+                        start = t.endPoint;
                         break;
                     }
-                    last = d[t];
+                    last = t.probability;
                 }
             }
 
