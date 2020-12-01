@@ -1,0 +1,16 @@
+C:\Users\dimadev\.github\100_Days_of_Coding\Day 044 - Hard\bin\Debug\netcoreapp3.1\Day 044 - Hard.exe
+C:\Users\dimadev\.github\100_Days_of_Coding\Day 044 - Hard\bin\Debug\netcoreapp3.1\Day 044 - Hard.deps.json
+C:\Users\dimadev\.github\100_Days_of_Coding\Day 044 - Hard\bin\Debug\netcoreapp3.1\Day 044 - Hard.runtimeconfig.json
+C:\Users\dimadev\.github\100_Days_of_Coding\Day 044 - Hard\bin\Debug\netcoreapp3.1\Day 044 - Hard.runtimeconfig.dev.json
+C:\Users\dimadev\.github\100_Days_of_Coding\Day 044 - Hard\bin\Debug\netcoreapp3.1\Day 044 - Hard.dll
+C:\Users\dimadev\.github\100_Days_of_Coding\Day 044 - Hard\bin\Debug\netcoreapp3.1\Day 044 - Hard.pdb
+C:\Users\dimadev\.github\100_Days_of_Coding\Day 044 - Hard\bin\Debug\netcoreapp3.1\Combinatorics.dll
+C:\Users\dimadev\.github\100_Days_of_Coding\Day 044 - Hard\bin\Debug\netcoreapp3.1\System.ServiceModel.dll
+C:\Users\dimadev\.github\100_Days_of_Coding\Day 044 - Hard\obj\Debug\netcoreapp3.1\Day 044 - Hard.csprojAssemblyReference.cache
+C:\Users\dimadev\.github\100_Days_of_Coding\Day 044 - Hard\obj\Debug\netcoreapp3.1\Day 044 - Hard.AssemblyInfoInputs.cache
+C:\Users\dimadev\.github\100_Days_of_Coding\Day 044 - Hard\obj\Debug\netcoreapp3.1\Day 044 - Hard.AssemblyInfo.cs
+C:\Users\dimadev\.github\100_Days_of_Coding\Day 044 - Hard\obj\Debug\netcoreapp3.1\Day 044 - Hard.csproj.CoreCompileInputs.cache
+C:\Users\dimadev\.github\100_Days_of_Coding\Day 044 - Hard\obj\Debug\netcoreapp3.1\Day 044 - Hard.csproj.CopyComplete
+C:\Users\dimadev\.github\100_Days_of_Coding\Day 044 - Hard\obj\Debug\netcoreapp3.1\Day 044 - Hard.dll
+C:\Users\dimadev\.github\100_Days_of_Coding\Day 044 - Hard\obj\Debug\netcoreapp3.1\Day 044 - Hard.pdb
+C:\Users\dimadev\.github\100_Days_of_Coding\Day 044 - Hard\obj\Debug\netcoreapp3.1\Day 044 - Hard.genruntimeconfig.cache
