@@ -1,0 +1,13 @@
+C:\Users\dimadev\.github\100_Days_of_Coding\Day 046 - Medium\bin\Debug\netcoreapp3.1\Day 046 - Medium.exe
+C:\Users\dimadev\.github\100_Days_of_Coding\Day 046 - Medium\bin\Debug\netcoreapp3.1\Day 046 - Medium.deps.json
+C:\Users\dimadev\.github\100_Days_of_Coding\Day 046 - Medium\bin\Debug\netcoreapp3.1\Day 046 - Medium.runtimeconfig.json
+C:\Users\dimadev\.github\100_Days_of_Coding\Day 046 - Medium\bin\Debug\netcoreapp3.1\Day 046 - Medium.runtimeconfig.dev.json
+C:\Users\dimadev\.github\100_Days_of_Coding\Day 046 - Medium\bin\Debug\netcoreapp3.1\Day 046 - Medium.dll
+C:\Users\dimadev\.github\100_Days_of_Coding\Day 046 - Medium\bin\Debug\netcoreapp3.1\Day 046 - Medium.pdb
+C:\Users\dimadev\.github\100_Days_of_Coding\Day 046 - Medium\obj\Debug\netcoreapp3.1\Day 046 - Medium.csprojAssemblyReference.cache
+C:\Users\dimadev\.github\100_Days_of_Coding\Day 046 - Medium\obj\Debug\netcoreapp3.1\Day 046 - Medium.AssemblyInfoInputs.cache
+C:\Users\dimadev\.github\100_Days_of_Coding\Day 046 - Medium\obj\Debug\netcoreapp3.1\Day 046 - Medium.AssemblyInfo.cs
+C:\Users\dimadev\.github\100_Days_of_Coding\Day 046 - Medium\obj\Debug\netcoreapp3.1\Day 046 - Medium.csproj.CoreCompileInputs.cache
+C:\Users\dimadev\.github\100_Days_of_Coding\Day 046 - Medium\obj\Debug\netcoreapp3.1\Day 046 - Medium.dll
+C:\Users\dimadev\.github\100_Days_of_Coding\Day 046 - Medium\obj\Debug\netcoreapp3.1\Day 046 - Medium.pdb
+C:\Users\dimadev\.github\100_Days_of_Coding\Day 046 - Medium\obj\Debug\netcoreapp3.1\Day 046 - Medium.genruntimeconfig.cache
