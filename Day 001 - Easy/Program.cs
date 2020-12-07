@@ -51,14 +51,7 @@ namespace _100daysCoding
             Console.WriteLine("Time elapsed V3: {0}", stopwatch.Elapsed);
 
 
-            //if (CheckMatch(k, array) == true)
-            //{
-            //    Console.WriteLine("{true}");
-            //}
-            //else
-            //{
-            //    Console.WriteLine("{false}");
-            //}
+            Console.WriteLine($"\nResult: {CheckMatch(k, array)}");
         }
 
         // This is the first version of the algorithm in use
