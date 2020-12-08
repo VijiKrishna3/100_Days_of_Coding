@@ -1,0 +1,16 @@
+C:\Users\dimadev\source\repos\Day 051 - Easy\bin\Debug\net5.0\Day 051 - Easy.exe
+C:\Users\dimadev\source\repos\Day 051 - Easy\bin\Debug\net5.0\Day 051 - Easy.deps.json
+C:\Users\dimadev\source\repos\Day 051 - Easy\bin\Debug\net5.0\Day 051 - Easy.runtimeconfig.json
+C:\Users\dimadev\source\repos\Day 051 - Easy\bin\Debug\net5.0\Day 051 - Easy.runtimeconfig.dev.json
+C:\Users\dimadev\source\repos\Day 051 - Easy\bin\Debug\net5.0\Day 051 - Easy.dll
+C:\Users\dimadev\source\repos\Day 051 - Easy\bin\Debug\net5.0\ref\Day 051 - Easy.dll
+C:\Users\dimadev\source\repos\Day 051 - Easy\bin\Debug\net5.0\Day 051 - Easy.pdb
+C:\Users\dimadev\source\repos\Day 051 - Easy\obj\Debug\net5.0\Day 051 - Easy.csprojAssemblyReference.cache
+C:\Users\dimadev\source\repos\Day 051 - Easy\obj\Debug\net5.0\Day 051 - Easy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dimadev\source\repos\Day 051 - Easy\obj\Debug\net5.0\Day 051 - Easy.AssemblyInfoInputs.cache
+C:\Users\dimadev\source\repos\Day 051 - Easy\obj\Debug\net5.0\Day 051 - Easy.AssemblyInfo.cs
+C:\Users\dimadev\source\repos\Day 051 - Easy\obj\Debug\net5.0\Day 051 - Easy.csproj.CoreCompileInputs.cache
+C:\Users\dimadev\source\repos\Day 051 - Easy\obj\Debug\net5.0\Day 051 - Easy.dll
+C:\Users\dimadev\source\repos\Day 051 - Easy\obj\Debug\net5.0\ref\Day 051 - Easy.dll
+C:\Users\dimadev\source\repos\Day 051 - Easy\obj\Debug\net5.0\Day 051 - Easy.pdb
+C:\Users\dimadev\source\repos\Day 051 - Easy\obj\Debug\net5.0\Day 051 - Easy.genruntimeconfig.cache
