@@ -1,0 +1,16 @@
+C:\Users\dimadev\.github\100_Days_of_Coding\Day 052 - Hard\bin\Release\net5.0\Day 052 - Hard.exe
+C:\Users\dimadev\.github\100_Days_of_Coding\Day 052 - Hard\bin\Release\net5.0\Day 052 - Hard.deps.json
+C:\Users\dimadev\.github\100_Days_of_Coding\Day 052 - Hard\bin\Release\net5.0\Day 052 - Hard.runtimeconfig.json
+C:\Users\dimadev\.github\100_Days_of_Coding\Day 052 - Hard\bin\Release\net5.0\Day 052 - Hard.runtimeconfig.dev.json
+C:\Users\dimadev\.github\100_Days_of_Coding\Day 052 - Hard\bin\Release\net5.0\Day 052 - Hard.dll
+C:\Users\dimadev\.github\100_Days_of_Coding\Day 052 - Hard\bin\Release\net5.0\ref\Day 052 - Hard.dll
+C:\Users\dimadev\.github\100_Days_of_Coding\Day 052 - Hard\bin\Release\net5.0\Day 052 - Hard.pdb
+C:\Users\dimadev\.github\100_Days_of_Coding\Day 052 - Hard\obj\Release\net5.0\Day 052 - Hard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dimadev\.github\100_Days_of_Coding\Day 052 - Hard\obj\Release\net5.0\Day 052 - Hard.AssemblyInfoInputs.cache
+C:\Users\dimadev\.github\100_Days_of_Coding\Day 052 - Hard\obj\Release\net5.0\Day 052 - Hard.AssemblyInfo.cs
+C:\Users\dimadev\.github\100_Days_of_Coding\Day 052 - Hard\obj\Release\net5.0\Day 052 - Hard.csproj.CoreCompileInputs.cache
+C:\Users\dimadev\.github\100_Days_of_Coding\Day 052 - Hard\obj\Release\net5.0\Day 052 - Hard.dll
+C:\Users\dimadev\.github\100_Days_of_Coding\Day 052 - Hard\obj\Release\net5.0\ref\Day 052 - Hard.dll
+C:\Users\dimadev\.github\100_Days_of_Coding\Day 052 - Hard\obj\Release\net5.0\Day 052 - Hard.pdb
+C:\Users\dimadev\.github\100_Days_of_Coding\Day 052 - Hard\obj\Release\net5.0\Day 052 - Hard.genruntimeconfig.cache
+C:\Users\dimadev\.github\100_Days_of_Coding\Day 052 - Hard\obj\Release\net5.0\Day 052 - Hard.csprojAssemblyReference.cache

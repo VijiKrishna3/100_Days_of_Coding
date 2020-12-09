@@ -1,7 +1,10 @@
 ﻿using System;
+using System.Collections.Concurrent;
 using System.Collections.Generic;
 using System.Diagnostics;
 using System.Linq;
+using System.Threading;
+using System.Threading.Tasks;
 
 namespace _100daysCoding
 {
@@ -29,13 +32,13 @@ namespace _100daysCoding
 
         }
 
-        static List<long> maxes = new List<long> { 19, 28, 37, 46, 55, 64, 73, 82, 91 };
-        static List<int> startPoints = new List<int> { 9, 8, 7, 6, 5, 4, 3, 2, 1 };
+        static int[] maxes = new int[]{ 19, 28, 37, 46, 55, 64, 73, 82, 91 };
+        static int[] startPoints = new int[] { 9, 8, 7, 6, 5, 4, 3, 2, 1 };
         static long findNthPerfect(int n)
         {
             if (n <= 9) return maxes[n - 1];
 
-            int mult = 10;
+            long mult = 10;
             int cntr = 9;
             while (true)
             {
@@ -47,10 +50,11 @@ namespace _100daysCoding
                     // val - value that is set like 1 * 10 * 10 i.e. first it's 100 then it's 1000 etc.. the startpoint since we hardcoded the first 9 numbers.
                     long val = (i + 1) * mult * 10 + startPoints[i];
 
-                    for (; val <= maximumThreshold; val+= 9)
+                    for (; val <= maximumThreshold; val += 9)
                     {
-                        long sumNum = val.ToString().Sum(c => c - '0');
-                        if (sumNum == 10) cntr++;
+                        long sum = 0;
+                        for (long x = val; x > 0; x /= 10) sum += x % 10;
+                        if (sum == 10) cntr++;
                         if (cntr == n) return val;
                     }
                 }
@@ -62,11 +66,11 @@ namespace _100daysCoding
         {
             int count = 0;
 
-            for (int r = 19;; r += 9)
+            for (long r = 19;; r += 9)
             {
-                int sum = 0;
+                long sum = 0;
 
-                for (int x = r; x > 0; x = x / 10)
+                for (long x = r; x > 0; x = x / 10)
                 { sum = sum + x % 10; }
 
                 if (sum == 10)
