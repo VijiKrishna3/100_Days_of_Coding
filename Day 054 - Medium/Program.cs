@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections;
 using System.Collections.Generic;
+using System.Linq;
 
 namespace _100daysCoding
 {
@@ -10,7 +11,10 @@ namespace _100daysCoding
         {
             // We will be creating the "linked list" of numbers as an iterating array
             // i.e. 5 -> 1 -> 8 -> 0 -> 3
-            int[] arr = { 5, 1, 8, 0, 3 };
+            Console.WriteLine("Input the linked list in one line as: 5 1 8 0 3");
+            var ins = Console.ReadLine().Split(' ').ToList();
+            var arr = (from entry in ins select Convert.ToInt32(entry)).ToArray();
+            // Test array: int[] arr = {5, 1, 8, 0, 3};
 
             Console.Write("Input k: ");
             int k = Convert.ToInt32(Console.ReadLine());
