@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dimadev\\.github\\100_Days_of_Coding\\Day 55 - Easy\\Day 55 - Easy.csproj",
-      "projectName": "Day 55 - Easy",
-      "projectPath": "C:\\Users\\dimadev\\.github\\100_Days_of_Coding\\Day 55 - Easy\\Day 55 - Easy.csproj",
+      "projectUniqueName": "C:\\Users\\dimadev\\.github\\100_Days_of_Coding\\Day 055 - Easy\\Day 055 - Easy.csproj",
+      "projectName": "Day 055 - Easy",
+      "projectPath": "C:\\Users\\dimadev\\.github\\100_Days_of_Coding\\Day 055 - Easy\\Day 055 - Easy.csproj",
       "packagesPath": "C:\\Users\\dimadev\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dimadev\\.github\\100_Days_of_Coding\\Day 55 - Easy\\obj\\",
+      "outputPath": "C:\\Users\\dimadev\\.github\\100_Days_of_Coding\\Day 055 - Easy\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
