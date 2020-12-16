@@ -1,0 +1,22 @@
+C:\Users\dimadev\.github\100_Days_of_Coding\Day 048 - Hard\bin\Debug\net5.0\Day 048 - Hard.exe
+C:\Users\dimadev\.github\100_Days_of_Coding\Day 048 - Hard\bin\Debug\net5.0\Day 048 - Hard.deps.json
+C:\Users\dimadev\.github\100_Days_of_Coding\Day 048 - Hard\bin\Debug\net5.0\Day 048 - Hard.runtimeconfig.json
+C:\Users\dimadev\.github\100_Days_of_Coding\Day 048 - Hard\bin\Debug\net5.0\Day 048 - Hard.runtimeconfig.dev.json
+C:\Users\dimadev\.github\100_Days_of_Coding\Day 048 - Hard\bin\Debug\net5.0\Day 048 - Hard.dll
+C:\Users\dimadev\.github\100_Days_of_Coding\Day 048 - Hard\bin\Debug\net5.0\ref\Day 048 - Hard.dll
+C:\Users\dimadev\.github\100_Days_of_Coding\Day 048 - Hard\bin\Debug\net5.0\Day 048 - Hard.pdb
+C:\Users\dimadev\.github\100_Days_of_Coding\Day 048 - Hard\bin\Debug\net5.0\QuickGraph.Data.dll
+C:\Users\dimadev\.github\100_Days_of_Coding\Day 048 - Hard\bin\Debug\net5.0\QuickGraph.Graphviz.dll
+C:\Users\dimadev\.github\100_Days_of_Coding\Day 048 - Hard\bin\Debug\net5.0\QuickGraph.Serialization.dll
+C:\Users\dimadev\.github\100_Days_of_Coding\Day 048 - Hard\bin\Debug\net5.0\QuickGraph.dll
+C:\Users\dimadev\.github\100_Days_of_Coding\Day 048 - Hard\bin\Debug\net5.0\QuikGraph.dll
+C:\Users\dimadev\.github\100_Days_of_Coding\Day 048 - Hard\obj\Debug\net5.0\Day 048 - Hard.csprojAssemblyReference.cache
+C:\Users\dimadev\.github\100_Days_of_Coding\Day 048 - Hard\obj\Debug\net5.0\Day 048 - Hard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dimadev\.github\100_Days_of_Coding\Day 048 - Hard\obj\Debug\net5.0\Day 048 - Hard.AssemblyInfoInputs.cache
+C:\Users\dimadev\.github\100_Days_of_Coding\Day 048 - Hard\obj\Debug\net5.0\Day 048 - Hard.AssemblyInfo.cs
+C:\Users\dimadev\.github\100_Days_of_Coding\Day 048 - Hard\obj\Debug\net5.0\Day 048 - Hard.csproj.CoreCompileInputs.cache
+C:\Users\dimadev\.github\100_Days_of_Coding\Day 048 - Hard\obj\Debug\net5.0\Day 048 - Hard.csproj.CopyComplete
+C:\Users\dimadev\.github\100_Days_of_Coding\Day 048 - Hard\obj\Debug\net5.0\Day 048 - Hard.dll
+C:\Users\dimadev\.github\100_Days_of_Coding\Day 048 - Hard\obj\Debug\net5.0\ref\Day 048 - Hard.dll
+C:\Users\dimadev\.github\100_Days_of_Coding\Day 048 - Hard\obj\Debug\net5.0\Day 048 - Hard.pdb
+C:\Users\dimadev\.github\100_Days_of_Coding\Day 048 - Hard\obj\Debug\net5.0\Day 048 - Hard.genruntimeconfig.cache

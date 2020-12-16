@@ -1,0 +1,69 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Day 048 - Hard/1.0.0": {
+        "dependencies": {
+          "QuickGraph": "3.6.61119.7",
+          "QuikGraph": "2.2.0"
+        },
+        "runtime": {
+          "Day 048 - Hard.dll": {}
+        }
+      },
+      "QuickGraph/3.6.61119.7": {
+        "runtime": {
+          "lib/net4/QuickGraph.Data.dll": {
+            "assemblyVersion": "3.6.61114.0",
+            "fileVersion": "3.6.61114.0"
+          },
+          "lib/net4/QuickGraph.Graphviz.dll": {
+            "assemblyVersion": "3.6.61114.0",
+            "fileVersion": "3.6.61114.0"
+          },
+          "lib/net4/QuickGraph.Serialization.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          },
+          "lib/net4/QuickGraph.dll": {
+            "assemblyVersion": "3.6.61114.0",
+            "fileVersion": "3.6.61114.0"
+          }
+        }
+      },
+      "QuikGraph/2.2.0": {
+        "runtime": {
+          "lib/netstandard2.0/QuikGraph.dll": {
+            "assemblyVersion": "2.2.0.0",
+            "fileVersion": "2.2.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Day 048 - Hard/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "QuickGraph/3.6.61119.7": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-crtYNiFcYFtYbmbEfdYsdGw5M3923OO5ZZD25K+WeLPgTp/q4oq3U/FVrbaOK5+Jg8UJDmoZ6sqAVion4RgXCA==",
+      "path": "quickgraph/3.6.61119.7",
+      "hashPath": "quickgraph.3.6.61119.7.nupkg.sha512"
+    },
+    "QuikGraph/2.2.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ApizmgozbNF+DwC+ZS09Qxg2UWgU422chrTLr+KnayvwcWN2+L3Kb1VzHoyGm4R25XheiHe+N1jXqgxYYcYFsA==",
+      "path": "quikgraph/2.2.0",
+      "hashPath": "quikgraph.2.2.0.nupkg.sha512"
+    }
+  }
+}

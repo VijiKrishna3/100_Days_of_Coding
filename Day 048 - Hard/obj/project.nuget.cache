@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "hYqrIfCW68J/xeRQMmz77NH0gbdTyfrjWZdNjpB0uBUGkguteBBEdcyzifRAc/PDcqgrEDxE93yeGv1QX80ANA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dimadev\\.github\\100_Days_of_Coding\\Day 048 - Hard\\Day 048 - Hard.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dimadev\\.nuget\\packages\\quickgraph\\3.6.61119.7\\quickgraph.3.6.61119.7.nupkg.sha512",
+    "C:\\Users\\dimadev\\.nuget\\packages\\quikgraph\\2.2.0\\quikgraph.2.2.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'QuickGraph 3.6.61119.7' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net5.0'. This package may not be fully compatible with your project.",
+      "libraryId": "QuickGraph",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    }
+  ]
+}
