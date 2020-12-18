@@ -1,0 +1,16 @@
+C:\Users\dimadev\.github\100_Days_of_Coding\Day 060 - Easy\bin\Release\net5.0\Day 060 - Easy.exe
+C:\Users\dimadev\.github\100_Days_of_Coding\Day 060 - Easy\bin\Release\net5.0\Day 060 - Easy.deps.json
+C:\Users\dimadev\.github\100_Days_of_Coding\Day 060 - Easy\bin\Release\net5.0\Day 060 - Easy.runtimeconfig.json
+C:\Users\dimadev\.github\100_Days_of_Coding\Day 060 - Easy\bin\Release\net5.0\Day 060 - Easy.runtimeconfig.dev.json
+C:\Users\dimadev\.github\100_Days_of_Coding\Day 060 - Easy\bin\Release\net5.0\Day 060 - Easy.dll
+C:\Users\dimadev\.github\100_Days_of_Coding\Day 060 - Easy\bin\Release\net5.0\ref\Day 060 - Easy.dll
+C:\Users\dimadev\.github\100_Days_of_Coding\Day 060 - Easy\bin\Release\net5.0\Day 060 - Easy.pdb
+C:\Users\dimadev\.github\100_Days_of_Coding\Day 060 - Easy\obj\Release\net5.0\Day 060 - Easy.csprojAssemblyReference.cache
+C:\Users\dimadev\.github\100_Days_of_Coding\Day 060 - Easy\obj\Release\net5.0\Day 060 - Easy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dimadev\.github\100_Days_of_Coding\Day 060 - Easy\obj\Release\net5.0\Day 060 - Easy.AssemblyInfoInputs.cache
+C:\Users\dimadev\.github\100_Days_of_Coding\Day 060 - Easy\obj\Release\net5.0\Day 060 - Easy.AssemblyInfo.cs
+C:\Users\dimadev\.github\100_Days_of_Coding\Day 060 - Easy\obj\Release\net5.0\Day 060 - Easy.csproj.CoreCompileInputs.cache
+C:\Users\dimadev\.github\100_Days_of_Coding\Day 060 - Easy\obj\Release\net5.0\Day 060 - Easy.dll
+C:\Users\dimadev\.github\100_Days_of_Coding\Day 060 - Easy\obj\Release\net5.0\ref\Day 060 - Easy.dll
+C:\Users\dimadev\.github\100_Days_of_Coding\Day 060 - Easy\obj\Release\net5.0\Day 060 - Easy.pdb
+C:\Users\dimadev\.github\100_Days_of_Coding\Day 060 - Easy\obj\Release\net5.0\Day 060 - Easy.genruntimeconfig.cache
