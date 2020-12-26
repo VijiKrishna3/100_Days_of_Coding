@@ -1,0 +1,16 @@
+C:\Users\dimadev\.github\100_Days_of_Coding\Day 067 - Medium\bin\Release\net5.0\Day 067 - Medium.exe
+C:\Users\dimadev\.github\100_Days_of_Coding\Day 067 - Medium\bin\Release\net5.0\Day 067 - Medium.deps.json
+C:\Users\dimadev\.github\100_Days_of_Coding\Day 067 - Medium\bin\Release\net5.0\Day 067 - Medium.runtimeconfig.json
+C:\Users\dimadev\.github\100_Days_of_Coding\Day 067 - Medium\bin\Release\net5.0\Day 067 - Medium.runtimeconfig.dev.json
+C:\Users\dimadev\.github\100_Days_of_Coding\Day 067 - Medium\bin\Release\net5.0\Day 067 - Medium.dll
+C:\Users\dimadev\.github\100_Days_of_Coding\Day 067 - Medium\bin\Release\net5.0\ref\Day 067 - Medium.dll
+C:\Users\dimadev\.github\100_Days_of_Coding\Day 067 - Medium\bin\Release\net5.0\Day 067 - Medium.pdb
+C:\Users\dimadev\.github\100_Days_of_Coding\Day 067 - Medium\obj\Release\net5.0\Day 067 - Medium.csprojAssemblyReference.cache
+C:\Users\dimadev\.github\100_Days_of_Coding\Day 067 - Medium\obj\Release\net5.0\Day 067 - Medium.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dimadev\.github\100_Days_of_Coding\Day 067 - Medium\obj\Release\net5.0\Day 067 - Medium.AssemblyInfoInputs.cache
+C:\Users\dimadev\.github\100_Days_of_Coding\Day 067 - Medium\obj\Release\net5.0\Day 067 - Medium.AssemblyInfo.cs
+C:\Users\dimadev\.github\100_Days_of_Coding\Day 067 - Medium\obj\Release\net5.0\Day 067 - Medium.csproj.CoreCompileInputs.cache
+C:\Users\dimadev\.github\100_Days_of_Coding\Day 067 - Medium\obj\Release\net5.0\Day 067 - Medium.dll
+C:\Users\dimadev\.github\100_Days_of_Coding\Day 067 - Medium\obj\Release\net5.0\ref\Day 067 - Medium.dll
+C:\Users\dimadev\.github\100_Days_of_Coding\Day 067 - Medium\obj\Release\net5.0\Day 067 - Medium.pdb
+C:\Users\dimadev\.github\100_Days_of_Coding\Day 067 - Medium\obj\Release\net5.0\Day 067 - Medium.genruntimeconfig.cache
