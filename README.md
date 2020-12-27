@@ -1,4 +1,5 @@
 # 100 Days of Coding
+![open issues](https://img.shields.io/github/issues/dimitri-dev/100_Days_of_Coding?color=%2319a249) ![license](https://img.shields.io/github/license/dimitri-dev/100_Days_of_Coding) ![forks](https://img.shields.io/github/forks/dimitri-dev/100_Days_of_Coding?style=social)
 
 ## What is this
 100 Days of Coding is a challenge designed by Jamal Errakibi (@coder.journey) to help people solve problems faster.
