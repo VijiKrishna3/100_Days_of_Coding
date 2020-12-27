@@ -1,7 +1,0 @@
-C:\Users\dimadev\.github\100_Days_of_Coding\Day 025 - Medium\bin\Debug\Day 025 - Medium.exe.config
-C:\Users\dimadev\.github\100_Days_of_Coding\Day 025 - Medium\bin\Debug\Day 025 - Medium.exe
-C:\Users\dimadev\.github\100_Days_of_Coding\Day 025 - Medium\bin\Debug\Day 025 - Medium.pdb
-C:\Users\dimadev\.github\100_Days_of_Coding\Day 025 - Medium\obj\Debug\Day 025 - Medium.csprojAssemblyReference.cache
-C:\Users\dimadev\.github\100_Days_of_Coding\Day 025 - Medium\obj\Debug\Day 025 - Medium.csproj.CoreCompileInputs.cache
-C:\Users\dimadev\.github\100_Days_of_Coding\Day 025 - Medium\obj\Debug\Day 025 - Medium.exe
-C:\Users\dimadev\.github\100_Days_of_Coding\Day 025 - Medium\obj\Debug\Day 025 - Medium.pdb
