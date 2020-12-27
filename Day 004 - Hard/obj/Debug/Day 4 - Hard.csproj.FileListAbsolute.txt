@@ -1,7 +1,0 @@
-C:\Users\dimadev\.github\100_Days_of_Coding\Day 4 - Hard\bin\Debug\Day 4 - Hard.exe.config
-C:\Users\dimadev\.github\100_Days_of_Coding\Day 4 - Hard\bin\Debug\Day 4 - Hard.exe
-C:\Users\dimadev\.github\100_Days_of_Coding\Day 4 - Hard\bin\Debug\Day 4 - Hard.pdb
-C:\Users\dimadev\.github\100_Days_of_Coding\Day 4 - Hard\obj\Debug\Day 4 - Hard.csprojAssemblyReference.cache
-C:\Users\dimadev\.github\100_Days_of_Coding\Day 4 - Hard\obj\Debug\Day 4 - Hard.csproj.CoreCompileInputs.cache
-C:\Users\dimadev\.github\100_Days_of_Coding\Day 4 - Hard\obj\Debug\Day 4 - Hard.exe
-C:\Users\dimadev\.github\100_Days_of_Coding\Day 4 - Hard\obj\Debug\Day 4 - Hard.pdb
