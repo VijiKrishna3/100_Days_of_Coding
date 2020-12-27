@@ -18,6 +18,8 @@ namespace _100daysCoding
         static int divide(int a, int b)
         {
             if (a < b || b == 0) return 0;
+            if (a == b) return 1;
+            if (b == 1) return a;
 
             int div = 0;
             while (a > b)
