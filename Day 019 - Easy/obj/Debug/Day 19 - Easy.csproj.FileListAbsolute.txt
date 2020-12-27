@@ -1,7 +1,0 @@
-C:\Users\dimadev\.github\100_Days_of_Coding\Day 19 - Easy\bin\Debug\Day 19 - Easy.exe.config
-C:\Users\dimadev\.github\100_Days_of_Coding\Day 19 - Easy\bin\Debug\Day 19 - Easy.exe
-C:\Users\dimadev\.github\100_Days_of_Coding\Day 19 - Easy\bin\Debug\Day 19 - Easy.pdb
-C:\Users\dimadev\.github\100_Days_of_Coding\Day 19 - Easy\obj\Debug\Day 19 - Easy.csprojAssemblyReference.cache
-C:\Users\dimadev\.github\100_Days_of_Coding\Day 19 - Easy\obj\Debug\Day 19 - Easy.csproj.CoreCompileInputs.cache
-C:\Users\dimadev\.github\100_Days_of_Coding\Day 19 - Easy\obj\Debug\Day 19 - Easy.exe
-C:\Users\dimadev\.github\100_Days_of_Coding\Day 19 - Easy\obj\Debug\Day 19 - Easy.pdb
