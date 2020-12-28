@@ -33,7 +33,7 @@ namespace _100daysCoding
             Console.WriteLine($"Time elapsed {comparison.Elapsed}");
         }
 
-        static double customPow(double x, double y)
+        static double customPow(int x, int y)
         {
             if (y == 0) return 1;
             if (y == 1) return x;
