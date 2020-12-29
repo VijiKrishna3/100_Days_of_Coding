@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
 
 namespace _100daysCoding
 {
@@ -15,14 +16,31 @@ namespace _100daysCoding
 
             for (int i = 0; i < inputs.Length; i += 2)
                 intervalPairs.Add(new IntervalPair(Convert.ToInt32(inputs[i]), Convert.ToInt32(inputs[i + 1])));
-            intervalPairs.Sort((a, b) => a.start - b.start);
 
-            int roomsNeeded = 1;
-            for (int i = 1; i < intervalPairs.Count; ++i)
-                if (intervalPairs[i - 1].end > intervalPairs[i].start)
-                    ++roomsNeeded;
+            List<int> startPoints = (from entry in intervalPairs orderby entry.start ascending select entry.start).ToList();
+            List<int> endPoints = (from entry in intervalPairs orderby entry.end ascending select entry.end).ToList();
 
-            Console.WriteLine($"\nTotal number of rooms that will be needed: {roomsNeeded}.");
+            int start = 0, end = 0;
+            int maxRooms = 0, currentRooms = 0;
+
+            while (start < intervalPairs.Count && end < intervalPairs.Count)
+            {
+                if (start >= intervalPairs.Count) break;
+                if (startPoints[start] < endPoints[end])
+                {
+                    ++currentRooms;
+                    ++start;
+                }
+                else
+                {
+                    --currentRooms;
+                    ++end;
+                }
+
+                maxRooms = (currentRooms < maxRooms) ? maxRooms : currentRooms;
+            }
+
+            Console.WriteLine($"\nTotal number of rooms that will be needed: {maxRooms}.");
         }
 
         class IntervalPair
