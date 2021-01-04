@@ -33,7 +33,7 @@ namespace _100daysCoding
                 int iter = n;
                 int c = cache[n];
                 if (c > 0) continue;
-                while (cache.TryGetValue(iter, out var preCount) && iter != int.MaxValue)
+                while (cache.TryGetValue(iter, out int preCount) && iter != int.MaxValue)
                 {
                     if (preCount > 0) { c += preCount; break; }
                     ++c;
